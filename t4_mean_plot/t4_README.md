@@ -1,0 +1,1 @@
+# Erstellung eines Mean-Plots
