@@ -40,7 +40,9 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
   - ggplot2
   - flextable
   - officer
-  - weitere Pakete werden kurzfristig unter <https://github.com/jsahlmann/R4TFLs/> ergänzt
+  - rmarkdown (NEU hinzugefügt 05.03.2023)
+  - survminer (NEU hinzugefügt 05.03.2023)
+  - weitere Pakete werden bis spätestens zum 15.03.2023 an dieser Stelle ergänzt
   - Kursunterlagen
 
 Der Kurs wird in einer Windows-Umgebung durchgeführt.
@@ -61,3 +63,10 @@ Hierfür ist eine Anmeldung bei Github notwendig.
 
 In den zwei Wochen vor dem Tutorium wird es einen Onlinetermin geben, in dem die Installation überprüft werden kann,
 und in dem die Zusammenfassung der R-Befehle durchgegangen und besprochen wird. Der Termin wird kurzfristig bekanntgegeben.
+
+### Nachbereitung (optional)
+
+Nach der KSFE wird es einen Termin zur Nachbereitung geben, an dem offene Fragen diskutiert werden können und 
+ggf. weitere Tutorien geplant werden können.
+
+
