@@ -42,8 +42,11 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
   - officer
   - rmarkdown (NEU hinzugefügt 05.03.2023)
   - survminer (NEU hinzugefügt 05.03.2023)
-  - weitere Pakete werden bis spätestens zum 15.03.2023 an dieser Stelle ergänzt
-  - Kursunterlagen
+  - foreign (NEU hinzugefügt am 10.03.2023)
+  - safetyData (NEU hinzugefügt am 10.03.2023)
+  - survival (NEU hinzugefügt am 10.03.2023)
+  - weitere Pakete werden bis spätestens zum 13.03.2023 an dieser Stelle ergänzt
+- Kursunterlagen
 
 Der Kurs wird in einer Windows-Umgebung durchgeführt.
 Auf etwaige Besonderheiten einer Linux- oder einer MacOS-Umgebung kann im Rahmen des Tutoriums nicht eingegangen werden.
