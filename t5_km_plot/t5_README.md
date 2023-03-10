@@ -6,9 +6,9 @@ Dieser soll dann weiter exportiert und in ein Word-Dokument eingebunden werden.
 
 Aus einer Datei der Form
 
-![Ausgangsdatei](https://github.com/jsahlmann/R4TFLs/blob/main/img/t1_adtte.png)
+![Ausgangsdatei](https://github.com/jsahlmann/R4TFLs/blob/main/img/t5_adtte.png)
 
 erstellen wir einen Plot der Form
 
-![Tabelle 1](https://github.com/jsahlmann/R4TFLs/blob/main/img/t1_kmplot.png)
+![KM Plot](https://github.com/jsahlmann/R4TFLs/blob/main/img/t5_kmplot.png)
 
