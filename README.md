@@ -45,6 +45,7 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
   - foreign (NEU hinzugefügt am 10.03.2023)
   - safetyData (NEU hinzugefügt am 10.03.2023)
   - survival (NEU hinzugefügt am 10.03.2023)
+  - broom (NEU hinzugefügt am 11.03.2023
   - weitere Pakete werden bis spätestens zum 13.03.2023 an dieser Stelle ergänzt
 - Kursunterlagen
 
