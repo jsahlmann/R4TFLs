@@ -46,7 +46,8 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
   - safetyData (NEU hinzugefügt am 10.03.2023)
   - survival (NEU hinzugefügt am 10.03.2023)
   - broom (NEU hinzugefügt am 11.03.2023)
-  - weitere Pakete werden bis spätestens zum 13.03.2023 an dieser Stelle ergänzt
+  - car (NEU hinzugefügt am 12.03.2023)
+  - carData (NEU hinzugefügt am 12.03.2023)
 - Kursunterlagen
 
 Der Kurs wird in einer Windows-Umgebung durchgeführt.
