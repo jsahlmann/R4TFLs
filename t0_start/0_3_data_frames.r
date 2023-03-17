@@ -80,7 +80,7 @@ summary(df)
 # Die ersten sechs Zeilen darstellen.
 head(df)
 
-Die ersten 6 Zeilen der Häufigkeitstabelle darstellen.
+# Die ersten 6 Zeilen der Häufigkeitstabelle darstellen.
 head(table(df$AEBODSYS))
 
 # Zeige die ersten 10 Einträge
