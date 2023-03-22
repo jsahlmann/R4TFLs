@@ -40,14 +40,14 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
   - ggplot2
   - flextable
   - officer
-  - rmarkdown (NEU hinzugefügt 05.03.2023)
-  - survminer (NEU hinzugefügt 05.03.2023)
-  - foreign (NEU hinzugefügt am 10.03.2023)
-  - safetyData (NEU hinzugefügt am 10.03.2023)
-  - survival (NEU hinzugefügt am 10.03.2023)
-  - broom (NEU hinzugefügt am 11.03.2023)
-  - car (NEU hinzugefügt am 12.03.2023)
-  - carData (NEU hinzugefügt am 12.03.2023)
+  - rmarkdown
+  - survminer
+  - foreign
+  - safetyData
+  - survival
+  - broom
+  - car
+  - carData
 - Kursunterlagen
 
 Der Kurs wird in einer Windows-Umgebung durchgeführt.
@@ -58,8 +58,8 @@ Auf etwaige Besonderheiten einer Linux- oder einer MacOS-Umgebung kann im Rahmen
 Auf der Github-Seite <https://github.com/jsahlmann/R4TFLs/> werden nach Anmeldeschluss weitere Dokumente bereitgestellt.
 Hierzu gehören auch die Kursunterlagen.
 
-Zusätzlich gibt es eine Zusammenfassung der wichtigsten R-Befehle, die für das Tutorium benötigt werden.
-Das Lesen dieser Zusammenfassung und die Kenntnis dieser R-Befehle ist ebenfalls Voraussetzung für die Teilnahme an diesem Tutorium.
+Zusätzlich gibt es eine Zusammenfassung der wichtigsten R-Befehle in Form von Cheat sheets aus anderen Quellen, die für das Tutorium benötigt werden. Diese sind im Ordner \befehlsreferenzen abgelegt.
+Das Lesen dieser Zusammenfassung und die Kenntnis dieser R-Befehle ist ebenfalls Voraussetzung für die Teilnahme an diesem Tutorium. Diese Zusammenfassungen können natürlich während des Tutoriums benutzt werden.
 
 Der Status des Repos wird zu diesem Zeitpunkt von offen auf geschlossen gewechselt und jeder Teilnehmer des Tutoriums bekommt einen Zugang.
 Hierfür ist eine Anmeldung bei Github notwendig.
