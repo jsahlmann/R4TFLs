@@ -1,6 +1,15 @@
 library(tidyverse)
 library(ggplot2)
 # ------------------------------------------------------------------------------
+# From the developer of ggplot
+# https://ggplot2-book.org/
+
+# From the same author 
+# https://r4ds.had.co.nz/index.html
+
+# Beispielkapitel String-Handling
+# https://www.gastonsanchez.com/r4strings/
+
 # Diverse Quellen
 # Paketbeschreibung: https://ggplot2.tidyverse.org/index.html
 # Cheatsheet: https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf
