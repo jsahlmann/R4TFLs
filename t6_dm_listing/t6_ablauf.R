@@ -31,7 +31,7 @@ df2$SUBJID <- as.character(df2$SUBJID)
 df2$DTHDTC <- ifelse(is.na(df2$DTHDTC), "", df2$DTHDTC)
 df2$RFSTDTC <- ifelse(is.na(df2$RFSTDTC), "", df2$RFSTDTC)
 df2$RFENDTC <- ifelse(is.na(df2$RFENDTC), "", df2$RFENDTC)
-df2$SEX <- df2$SEX %>% recode(
+df2$SEX <- df2$SEX %>% dplyr::recode(
                       "F" = "Female",
                       "M" = "Male")
 head(df2)
