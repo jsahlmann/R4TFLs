@@ -53,31 +53,5 @@ Voraussetzungen für die Teilnahme an dem Tutorium ist ein Laptop mit installier
 Der Kurs wird in einer Windows-Umgebung durchgeführt.
 Auf etwaige Besonderheiten einer Linux- oder einer MacOS-Umgebung kann im Rahmen des Tutoriums nicht eingegangen werden.
 
-### Bereitstellung von Kursunterlagen und weiteren Informationen
 
-Auf der Github-Seite <https://github.com/jsahlmann/R4TFLs/> werden nach Anmeldeschluss weitere Dokumente bereitgestellt.
-Hierzu gehören auch die Kursunterlagen.
-
-Zusätzlich gibt es eine Zusammenfassung der wichtigsten R-Befehle in Form von Cheat sheets aus anderen Quellen, die für das Tutorium benötigt werden. Diese sind im Ordner \befehlsreferenzen abgelegt.
-Das Lesen dieser Zusammenfassung und die Kenntnis dieser R-Befehle ist ebenfalls Voraussetzung für die Teilnahme an diesem Tutorium. Diese Zusammenfassungen können natürlich während des Tutoriums benutzt werden.
-
-Der Status des Repos wird zu diesem Zeitpunkt von offen auf geschlossen gewechselt und jeder Teilnehmer des Tutoriums bekommt einen Zugang.
-Hierfür ist eine Anmeldung bei Github notwendig.
-
-### Vorbereitender Onlinetermin (optional)
-
-In den zwei Wochen vor dem Tutorium wird es Onlinetermine geben, in denen die Installation überprüft werden kann,
-und in dem die Zusammenfassung der R-Befehle durchgegangen und besprochen wird. 
-
-* Mi, 15.03.2023 16:00 - 18:00 Uhr. Vorbereitung Teil 1
-* Fr, 17.03.2023 17:00 - 19:00 Uhr. Vorbereitung Teil 1 (Alternativtermin)
-* Mi, 22.03.2023 16:00 - 18:00 Uhr. Vorbereitung Teil 2
-* Fr, 24.03.2023 17:00 - 19:00 Uhr. Vorbereitung Teil 2 (Alternativtermin)
-
-### Nachbereitung (optional)
-
-Nach der KSFE wird es einen Termin zur Nachbereitung geben, an dem offene Fragen diskutiert werden können und 
-ggf. weitere Tutorien geplant werden können.
-
-* Mi, 05.04.2023 16:00 - 18:00 Uhr. Nachbereitung
 
